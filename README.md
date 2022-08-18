@@ -1,2 +1,2 @@
-# Kaggle-NER
+# NER data set
  
